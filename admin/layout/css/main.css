@@ -1,0 +1,54 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #EEEEEE;
+	font-family: "Times New Roman", Times, serif;
+}
+/* Start header */
+.myheader{
+background: #393E46;
+color: #fff;
+padding-bottom: 10px;
+margin-bottom: 10px;
+}
+/* start sidebar */
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+	background-color: #393E46;
+    border-color:#393E46;
+}
+/* stat statstics */
+.mystat{
+	max-width: 193px;
+	text-align: center;
+	background: #00ADB5;
+    color: #fff;
+}
+.panel-default>.panel-heading {
+	background-color: #393E46;
+    color: #fff;
+}
+/* tabele controler */
+.btn-control{
+	padding: 0 4px;
+}
+
+
+/* Start footer */
+.footer{
+	background-color:#393E46 ;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+    margin-top: 276px;
+	
+}
+/* start show product */
+.spandisp{
+	display: block;
+	color: #393E46;
+}
+
+.reded{
+	color: red; 
+}
+

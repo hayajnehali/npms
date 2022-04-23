@@ -1,0 +1,52 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #f9f9f9;
+}
+
+.row{
+	background-color: #fff;
+	border-radius: 30px;
+}
+.logo_box{
+	margin-top: 20px;
+}
+.wilcome_logo{
+	text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 100px;
+    font-style: oblique;
+}
+img{
+	border-top-left-radius:30px;
+	border-bottom-right-radius: 30px;
+}
+.btn1{
+	border:none;
+	outline: none;
+	height: 50px;
+	width: 100%;
+	background-color: #FFC421;
+	color: white;
+	border-radius: 4px;
+	font-weight: bold;
+}
+.btn1:hover{
+	background:black;
+	border:1px;
+	color: white;
+	cursor: pointer;
+}
+
+.h{
+	display: inline;
+}
+img{
+	height: 100%;
+	width: 100%;
+}
