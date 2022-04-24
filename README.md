@@ -1,2 +1,2 @@
 # npms
-https://hayajnehali.github.io/npms/homes/index.html
+https://hayajnehali.github.io/npms/homes/index.php
